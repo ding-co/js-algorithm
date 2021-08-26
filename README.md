@@ -2,11 +2,11 @@
 
 ### JavaScript Algorithm Problem Practice (89문제)
 
-[OT]()
+[OT](https://github.com/ding-co/js-algorithm/blob/main/OT.md)
 
 `기본 문제`
 
-- [ ] [세 수 중 최솟값]()
+- [x] [세 수 중 최솟값](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb01.md)
 - [ ] [삼각형 판별]()
 - [ ] [연필 개수]()
 - [ ] [1부터 N까지의 합]()
