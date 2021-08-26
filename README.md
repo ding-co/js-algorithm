@@ -7,7 +7,7 @@
 `기본 문제`
 
 - [x] [세 수 중 최솟값](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb01.md)
-- [ ] [삼각형 판별]()
+- [x] [삼각형 판별](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb02.md)
 - [ ] [연필 개수]()
 - [ ] [1부터 N까지의 합]()
 - [ ] [최솟값 구하기]()
