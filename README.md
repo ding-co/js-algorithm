@@ -11,7 +11,7 @@
 - [x] [연필 개수](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb03.md)
 - [x] [1부터 N까지의 합](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb04.md)
 - [x] [최솟값 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb05.md)
-- [ ] [보충 - 내장함수로 최솟값, 최댓값 구하기]()
+- [x] [보충 - 내장함수로 최솟값, 최댓값 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb05-alpha.md)
 - [ ] [홀수]()
 - [ ] [10부제]()
 - [ ] [추가영상 - forEach, map, filter, reduce 메서드 작동원리]()
