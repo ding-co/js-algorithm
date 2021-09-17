@@ -22,9 +22,9 @@
 - [x] [대문자로 통일](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb12.md)
 - [x] [대소문자 변환](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb13.md)
 - [x] [가장 긴 문자열](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb14.md)
-- [ ] [가운데 문자 출력]()
-- [ ] [중복 문자 제거]()
-- [ ] [중복 단어 제거]()
+- [x] [가운데 문자 출력](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb15.md)
+- [x] [중복 문자 제거](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb16.md)
+- [x] [중복 단어 제거](https://github.com/ding-co/js-algorithm/blob/main/Section1/pb17.md)
 
 `배열 탐색`
 
