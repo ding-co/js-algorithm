@@ -28,8 +28,8 @@
 
 `배열 탐색`
 
-- [ ] [큰 수 출력]()
-- [ ] [보이는 학생]()
+- [x] [큰 수 출력](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb01.md)
+- [x] [보이는 학생](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb02.md)
 - [ ] [가위바위보]()
 - [ ] [점수 계산]()
 - [ ] [등수 구하기]()
