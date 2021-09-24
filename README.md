@@ -38,7 +38,7 @@
 > - [x] [보이는 학생](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb02.md)
 > - [x] [가위바위보](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb03.md)
 > - [x] [점수 계산](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb04.md)
-> - [ ] [등수 구하기](#)
+> - [x] [등수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb05.md)
 > - [ ] [격자판 최대 합](#)
 > - [ ] [봉우리](#)
 
