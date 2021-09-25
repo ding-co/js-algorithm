@@ -39,7 +39,7 @@
 > - [x] [가위바위보](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb03.md)
 > - [x] [점수 계산](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb04.md)
 > - [x] [등수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb05.md)
-> - [ ] [격자판 최대 합](#)
+> - [x] [격자판 최대 합](<[#](https://github.com/ding-co/js-algorithm/blob/main/Section2/pb06.md)>)
 > - [ ] [봉우리](#)
 
 </details>
