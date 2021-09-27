@@ -49,7 +49,7 @@
 <details>
   <summary> <strong> 문자열 탐색 (5) </strong> </summary>
 
-> - [ ] [회문 문자열](#)
+> - [x] [회문 문자열](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb01.md)
 > - [ ] [유효한 팰린드롬](#)
 > - [ ] [숫자만 추출](#)
 > - [ ] [가장 짧은 문자 거리](#)
