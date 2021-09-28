@@ -50,7 +50,7 @@
   <summary> <strong> 문자열 탐색 (5) </strong> </summary>
 
 > - [x] [회문 문자열](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb01.md)
-> - [ ] [유효한 팰린드롬](#)
+> - [x] [유효한 팰린드롬](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb02.md)
 > - [ ] [숫자만 추출](#)
 > - [ ] [가장 짧은 문자 거리](#)
 > - [ ] [문자열 압축](#)
