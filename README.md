@@ -52,7 +52,7 @@
 > - [x] [회문 문자열](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb01.md)
 > - [x] [유효한 팰린드롬](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb02.md)
 > - [x] [숫자만 추출](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb03.md)
-> - [ ] [가장 짧은 문자 거리](#)
+> - [x] [가장 짧은 문자 거리](https://github.com/ding-co/js-algorithm/blob/main/Section3/pb04.md)
 > - [ ] [문자열 압축](#)
 
 </details>
