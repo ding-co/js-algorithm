@@ -63,7 +63,7 @@
   <summary> <strong> 완전 탐색 (5) </strong> </summary>
 
 > - [x] [자리수의 합](https://github.com/ding-co/js-algorithm/blob/main/Section4/pb01.md)
-> - [ ] [뒤집은 소수](#)
+> - [x] [뒤집은 소수](https://github.com/ding-co/js-algorithm/blob/main/Section4/pb02.md)
 > - [ ] [멘토링](#)
 > - [ ] [졸업 선물](#)
 > - [ ] [K번째 큰수](#)
