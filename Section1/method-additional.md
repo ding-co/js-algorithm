@@ -6,7 +6,7 @@
 // forEach
 // function forEach(predicate, thisArg) {}
 // predicate <- 함수
-// thisArg는 생략 가능
+// thisArg는 생략 가능 (콜백 함수 내부에서 this로 사용할 것)
 
 const arr = [10, 11, 12, 13, 14, 15];
 
@@ -29,7 +29,7 @@ arr.forEach(
 
 const arr = [10, 11, 12, 13, 14, 15];
 
-// 새로운 배열 생성 (원본 배열과 같은 길이)
+// 요소 이용하여 새로운 배열 생성 (원본 배열과 같은 길이)
 // 새로운 배열 길이는 원본 배열 길이와 같음!!!
 // 누락된 곳은 undefined로 채워짐
 let answer = arr.map(
@@ -88,4 +88,5 @@ console.log(answer);
 
 - 위 4개 함수 모두 고차 함수 <br/>
   자신의 매개변수에 함수 전달 받음 (콜백 함수 받음)
-- 콜백함수는 항상 반복 호출됨
+- 배열 요소 하나 하나 탐색하면서 콜백함수가 반복 호출됨
+- JS는 함수형 프로그래밍 가능
