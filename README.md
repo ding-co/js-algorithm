@@ -75,7 +75,7 @@
 <details>
   <summary> <strong> 투 포인터, 슬라이딩 윈도우, 해쉬 (8) </strong> </summary>
 
-> - [ ] [두 배열 합치기](#)
+> - [x] [두 배열 합치기](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb01.md)
 > - [ ] [공통 원소 구하기](#)
 > - [ ] [연속 부분 수열1](#)
 > - [ ] [연속 부분 수열2](#)
