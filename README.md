@@ -76,12 +76,12 @@
   <summary> <strong> 투 포인터, 슬라이딩 윈도우, 해쉬 (8) </strong> </summary>
 
 > - [x] [두 배열 합치기](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb01.md)
-> - [ ] [공통 원소 구하기](#)
-> - [ ] [연속 부분 수열1](#)
-> - [ ] [연속 부분 수열2](#)
-> - [ ] [최대 매출](#)
-> - [ ] [학급 회장](#)
-> - [ ] [아나그램](#)
+> - [x] [공통 원소 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb02.md)
+> - [x] [연속 부분 수열1](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb03.md)
+> - [x] [연속 부분 수열2](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb04.md)
+> - [x] [최대 매출](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb05.md)
+> - [x] [학급 회장](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb06.md)
+> - [x] [아나그램](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb07.md)
 > - [ ] [모든 아나그램 찾기](#)
 
 </details>
