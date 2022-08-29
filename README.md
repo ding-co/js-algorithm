@@ -82,7 +82,7 @@
 > - [x] [최대 매출](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb05.md)
 > - [x] [학급 회장](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb06.md)
 > - [x] [아나그램](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb07.md)
-> - [ ] [모든 아나그램 찾기](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb08.md)
+> - [x] [모든 아나그램 찾기](https://github.com/ding-co/js-algorithm/blob/main/Section5/pb08.md)
 
 </details>
 
