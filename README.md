@@ -91,7 +91,7 @@
 <details>
   <summary> <strong> 스택, 큐 (7) </strong> </summary>
 
-> - [ ] [올바른 괄호](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb01.md)
+> - [x] [올바른 괄호](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb01.md)
 > - [ ] [괄호 문자 제거](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb02.md)
 > - [ ] [크레인 인형뽑기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb03.md)
 > - [ ] [후위식 연산](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb04.md)
