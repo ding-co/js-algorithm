@@ -93,8 +93,8 @@
 
 > - [x] [올바른 괄호](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb01.md)
 > - [x] [괄호 문자 제거](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb02.md)
-> - [ ] [크레인 인형뽑기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb03.md)
-> - [ ] [후위식 연산](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb04.md)
+> - [x] [크레인 인형뽑기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb03.md)
+> - [x] [후위식 연산](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb04.md)
 > - [ ] [쇠막대기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb05.md)
 > - [ ] [공주 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb06.md)
 > - [ ] [교육과정 설계](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb07.md)
