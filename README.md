@@ -97,7 +97,7 @@
 > - [x] [후위식 연산](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb04.md)
 > - [x] [쇠막대기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb05.md)
 > - [x] [공주 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb06.md)
-> - [ ] [교육과정 설계](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb07.md)
+> - [x] [교육과정 설계](https://github.com/ding-co/js-algorithm/blob/main/Section6/pb07.md)
 
 </details>
 
