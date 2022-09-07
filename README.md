@@ -107,7 +107,7 @@
   <summary> <strong> 정렬, 그리기, 이분 검색 (12) </strong> </summary>
 
 > - [x] [선택 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb01.md)
-> - [ ] [버블 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb02.md)
+> - [x] [버블 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb02.md)
 > - [ ] [Special Sort](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb03.md)
 > - [ ] [삽입 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb04.md)
 > - [ ] [LRU](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb05.md)
