@@ -109,7 +109,7 @@
 > - [x] [선택 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb01.md)
 > - [x] [버블 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb02.md)
 > - [x] [Special Sort](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb03.md)
-> - [ ] [삽입 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb04.md)
+> - [x] [삽입 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb04.md)
 > - [ ] [LRU](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb05.md)
 > - [ ] [장난꾸러기 현수](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb06.md)
 > - [ ] [좌표 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb07.md)
