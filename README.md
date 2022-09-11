@@ -113,7 +113,7 @@
 > - [ ] [LRU](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb05.md)
 > - [ ] [장난꾸러기 현수](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb06.md)
 > - [x] [좌표 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb07.md)
-> - [ ] [회의실 배정](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb08.md)
+> - [x] [회의실 배정](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb08.md)
 > - [ ] [결혼식](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb09.md)
 > - [ ] [이분 검색](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb010.md)
 > - [ ] [뮤직비디오](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb011.md)
