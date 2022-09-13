@@ -111,7 +111,7 @@
 > - [x] [Special Sort](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb03.md)
 > - [x] [삽입 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb04.md)
 > - [x] [LRU](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb05.md)
-> - [ ] [장난꾸러기 현수](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb06.md)
+> - [x] [장난꾸러기 현수](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb06.md)
 > - [x] [좌표 정렬](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb07.md)
 > - [x] [회의실 배정](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb08.md)
 > - [ ] [결혼식](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb09.md)
