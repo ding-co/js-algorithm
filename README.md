@@ -117,7 +117,7 @@
 > - [x] [결혼식](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb09.md)
 > - [x] [이분 검색](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb010.md)
 > - [x] [뮤직비디오](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb011.md)
-> - [ ] [마구간 정하기](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb012.md)
+> - [x] [마구간 정하기](https://github.com/ding-co/js-algorithm/blob/main/Section7/pb012.md)
 
 </details>
 
