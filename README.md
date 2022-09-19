@@ -127,7 +127,7 @@
   <summary> <strong> 재귀함수와 완전 탐색 (15) </strong> </summary>
 
 > - [x] [재귀함수와 스택 프레임](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb01.md)
-> - [ ] [이진수 출력](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb02.md)
+> - [x] [이진수 출력](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb02.md)
 > - [ ] [이진 트리 순회](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb03.md)
 > - [ ] [부분집합 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb04.md)
 > - [ ] [합이 같은 부분집합](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb05.md)
