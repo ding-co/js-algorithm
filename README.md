@@ -128,8 +128,8 @@
 
 > - [x] [재귀함수와 스택 프레임](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb01.md)
 > - [x] [이진수 출력](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb02.md)
-> - [ ] [이진 트리 순회](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb03.md)
-> - [ ] [부분집합 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb04.md)
+> - [x] [이진 트리 순회](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb03.md)
+> - [x] [부분집합 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb04.md)
 > - [ ] [합이 같은 부분집합](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb05.md)
 > - [ ] [바둑이 승차](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb06.md)
 > - [ ] [최대 점수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb07.md)
