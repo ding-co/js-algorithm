@@ -132,7 +132,7 @@
 > - [x] [부분집합 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb04.md)
 > - [x] [합이 같은 부분집합](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb05.md)
 > - [x] [바둑이 승차](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb06.md)
-> - [ ] [최대 점수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb07.md)
+> - [x] [최대 점수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb07.md)
 > - [ ] [중복 순열](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb08.md)
 > - [ ] [동전 교환](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb09.md)
 > - [ ] [순열 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb010.md)
