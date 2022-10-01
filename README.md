@@ -137,7 +137,7 @@
 > - [x] [동전 교환](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb09.md)
 > - [x] [순열 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb010.md)
 > - [x] [팩토리얼](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb011.md)
-> - [ ] [조합수](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb012.md)
+> - [x] [조합수](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb012.md)
 > - [ ] [수열 추측하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb013.md)
 > - [ ] [조합 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb014.md)
 > - [ ] [수들의 조합](https://github.com/ding-co/js-algorithm/blob/main/Section8/pb015.md)
