@@ -151,7 +151,7 @@
 
 > - [x] [그래프와 인접행렬](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb01.md)
 > - [x] [경로 탐색1](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb02.md)
-> - [ ] [경로 탐색2](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb03.md)
+> - [x] [경로 탐색2](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb03.md)
 > - [ ] [미로 탐색](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb04.md)
 > - [ ] [이진 트리 탐색](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb05.md)
 > - [ ] [송아지 찾기](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb06.md)
