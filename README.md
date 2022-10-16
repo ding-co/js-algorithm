@@ -155,7 +155,7 @@
 > - [x] [미로 탐색](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb04.md)
 > - [x] [이진 트리 탐색](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb05.md)
 > - [x] [송아지 찾기](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb06.md)
-> - [ ] [섬 나라 아일랜드1](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb07-1.md)
+> - [x] [섬 나라 아일랜드1](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb07-1.md)
 > - [ ] [섬 나라 아일랜드2](https://github.com/ding-co/js-algorithm/blob/main/Section9/pb07-2.md)
 
 </details>
