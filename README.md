@@ -165,7 +165,7 @@
 <details>
   <summary> <strong> Dynamic Programming (5) </strong> </summary>
 
-> - [ ] [계단 오르기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb01.md)
+> - [x] [계단 오르기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb01.md)
 > - [ ] [돌다리 건너기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb02.md)
 > - [ ] [최대 부분 증가 수열](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb03.md)
 > - [ ] [동전 교환](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb04.md)
