@@ -168,7 +168,7 @@
 > - [x] [계단 오르기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb01.md)
 > - [x] [돌다리 건너기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb02.md)
 > - [x] [최대 부분 증가 수열](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb03.md)
-> - [ ] [동전 교환](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb04.md)
+> - [x] [동전 교환](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb04.md)
 > - [ ] [최대 점수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb05.md)
 
 </details>
