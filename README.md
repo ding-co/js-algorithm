@@ -169,6 +169,6 @@
 > - [x] [돌다리 건너기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb02.md)
 > - [x] [최대 부분 증가 수열](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb03.md)
 > - [x] [동전 교환](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb04.md)
-> - [ ] [최대 점수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb05.md)
+> - [x] [최대 점수 구하기](https://github.com/ding-co/js-algorithm/blob/main/Section10/pb05.md)
 
 </details>
